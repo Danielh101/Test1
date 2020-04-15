@@ -5,7 +5,7 @@
 		-- The Prison
 	 	{title="Bolingbroke Penitentiary", colour=75, id=238, x=1807.53, y=2605.59, z=45.565},
 		-- Airports 
-		{title="Airport", colour=3, id=90, x=1721.0, y=3255.07, z=41.148},
+	--	{title="Airport", colour=3, id=90, x=1721.0, y=3255.07, z=41.148},
 		{title="Airport", colour=3, id=90, x=2149.59, y=4817.6, z=41.268},
 		{title="Airport", colour=3, id=90, x=-1045.49, y=-2751.304, z=21.363},
 		-- Police Departments

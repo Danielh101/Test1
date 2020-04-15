@@ -1,6 +1,6 @@
 AddEventHandler('chatMessage', function(source, name, msg)
 	sm = stringsplit(msg, " ");
-	if sm[1] == "/911" then
+	if sm[1] == "/911" then -- please does /911 then run event.
 		CancelEvent()
 		TriggerClientEvent('chatMessage', -1, "911 | " .. name, { 30, 144, 255 }, string.sub(msg,5))
 	end
